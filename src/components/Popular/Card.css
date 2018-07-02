@@ -1,0 +1,33 @@
+.card {
+  height: 600px;
+}
+
+.card:hover {
+  cursor: pointer;
+  background-color: #E8E8E8;
+}
+
+.card-title {
+  height: 50px;
+  line-height: 3;
+  font-weight: 500;
+  margin-bottom: 0;
+  background-color: #E8E8E8;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.card-img {
+  width: 100%;
+}
+
+.avg-score {
+  font-weight: 500;
+}
+
+.max-score {
+  color: #a0a0a0;
+  font-size: 0.7em;
+  font-weight: 100;
+  margin-right: 10px;
+}

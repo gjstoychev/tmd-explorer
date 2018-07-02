@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'), url(./Montserrat.woff) format('woff');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font: 20px Montserrat, sans-serif;
+  line-height: 1.8;
+  color: #252525;
+  background-color: #000000;
+}
+
+p {
+  padding: 10px;
+  font-size: 12px;
+  text-align: justify;
+}
+
+a, a:hover, a:visited, a:link, a:active {
+  color: #252525;
+  text-decoration: none;
+}

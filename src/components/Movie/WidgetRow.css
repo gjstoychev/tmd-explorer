@@ -1,0 +1,14 @@
+.widget-wrapper {
+  opacity: 0.8;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.widget-label {
+  color: #01d277;
+  font-size: 16px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}

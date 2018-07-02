@@ -1,0 +1,11 @@
+input {
+  height: 20px;
+  padding: 20px;
+  background-color: #E8E8E8;
+  border: 1px solid #01d277;
+}
+
+input:hover {
+  border-color: white;
+  background-color: #01d277;
+}

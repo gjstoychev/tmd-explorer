@@ -1,0 +1,19 @@
+.loading {
+  height: 500px;
+  padding: 150px;
+}
+
+.empty {
+  height: 500px;
+  padding: 100px;
+}
+
+.empty > h1 {
+  color: red;
+  font-size: 2em;
+}
+
+.empty > h4 > span {
+  color:#01d277;
+  font-weight: 900;
+}
